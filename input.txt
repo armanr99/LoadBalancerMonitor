@@ -1,0 +1,36 @@
+A - D - 3
+D - G - 2
+G - J - 4
+B - E - 1
+E - H - 2
+H - K - 1
+K - M - 4
+M - N - 2
+C - E - 3
+E - F - 1
+F - I - 3
+I - L - 4
+L - M - 2
+E - G - 3
+D - H - 1
+D - E - 3
+J - M - 2
+#
+A - D - E - H - K - M - N
+10
+A - D - G - J - M - N
+10
+B - E - G - J - M - N
+10
+C - E - H - K - M - N
+10
+C - E - G - J - M - N
+10
+B - E - H - K - M - N
+10
+B - E - F - I - L - M - N
+10
+C - E - F - I - L - M - N
+10
+A - D - E - F - I - L - M - N
+10
